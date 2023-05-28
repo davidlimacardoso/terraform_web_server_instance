@@ -9,5 +9,5 @@ terraform {
 
 provider "aws" {
     region = "us-east-1"
-    profile = "893777461466_ame-labs-aws-admin"
+    profile = "default"
 }
